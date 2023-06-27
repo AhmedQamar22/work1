@@ -1,0 +1,229 @@
+.header{
+width: 100%;
+height: 100%;
+    background-image: url(images/drew-coffman-1872.jpg);
+    background-size: 100% 100%;
+    color: #FFFFFF;
+    text-align:center;
+    padding-top: 35%;
+    background-repeat: no-repeat;
+}
+
+.btn-brown{
+    background-color: #8e7754;
+    color: white;
+    padding: 10px;
+border-radius: 10px 10px;
+border-color: #8e7754;
+
+}
+.btn-white{
+    background-color: transparent;
+    color: white;
+padding: 10px;
+border-radius: 10px 10px;
+border-color: #FFFFFF;
+}
+.who-we-are{
+    background-color:#FFFFFF;
+
+display: inline-block;
+width: 100%;
+}
+.info{
+    float: right;
+    width: 50%;
+    margin-right:150px;;
+    margin-top:70px;
+}
+.image{
+    width: 50%;
+    margin-left:150px;
+    margin-top: 70px;
+
+}
+img{
+    width: 50%;
+}
+.clr{
+    clear: both;
+}
+ul li{
+    list-style: none;
+    padding:20px;
+    padding-right:30px;
+}
+.our-location{
+    background:#F8F8F8;
+    float: both;
+    width: 100%;
+}
+.our-location-info{
+    float:left;
+    width: 50%;
+    text-align: left;
+}
+.our-location-image{
+    float:right;
+    width: 50%;
+    text-align: right;
+}
+.our-location-image img{
+    width:60%;
+    margin-right: 300px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.our-location-info h2,.text,.notion{
+    width: 50%;
+    margin-left:200px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.clear-fix{
+    clear: both;
+}
+.our-baking{
+    background: #FFFFFF;
+    width: 100%;
+    color:black;
+    float: both;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.mosa{
+    padding-top: 10px;
+    padding-bottom:40px;
+}
+.item1{
+    width:32% ;
+    color: black;
+    float: left;
+text-align: center;
+margin-left:20px;
+}
+.item2{
+    width:32% ;
+    color: black;
+    float: left;
+    margin-left:20px;
+    margin-right:10px;
+text-align: center;
+}
+.item3{
+    width:32% ;
+    color: black;
+    float: left;
+    margin-right:10px;
+    text-align: center;
+}
+.clr{
+    clear: left;
+}
+.Contact-Information{
+    background-color:#F8F8F8;
+    width: 100%;
+    float:both;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+.contact-info{
+    width: 50%;
+    float: left;
+    text-align: left;
+
+}
+.contact-image{
+    width: 50%;
+    float: right;
+    text-align: right;
+}
+.clr{
+    clear: both;
+}
+.contact-image img{
+    width:50%;
+    margin-right: 300px;
+}
+.contact-info .title,.contact,.details,ul li{
+    margin-left: 100px;
+padding: 10px;
+}
+.info-about-us{
+    background:#403D38;
+    width: 100%;
+    float:both;
+    padding-top: 20px;
+    text-align: left;
+}
+.about-us{
+    width: 25%;
+    float: left;
+}
+.our-special{
+    width: 25%;
+    float: left;
+}
+.opening{
+    width: 25%;
+    float: left;
+    text-align:left;
+}
+.contact-details{
+    width: 25%;
+    float: left;
+    text-align:left;
+}
+.clr{
+    clear: both;
+}
+.about-us h4{
+    padding: 10px;
+    padding: 10px;
+    color: #F8F8F8;
+}
+.text-us{
+    padding-left: 30px;
+color: #969696;
+}
+.text-us2{
+    padding-left: 30px;
+    padding-bottom: 60px;
+    color: #969696;
+}
+ol{
+    list-style: none;
+    color: #969696;
+}
+.our-special-2{
+margin-left: 10px;
+margin-right: 10px;
+}
+.our-special h4{
+    color: #F8F8F8;
+    padding: 10px;
+text-align: left;
+}
+li{
+padding: 10px;
+}
+.info-about-us h4{
+    color: #F8F8F8;
+}
+.bakery{
+    background:#353330;
+    color: #757269;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+}
+.bakery img{
+    width: 25%;
+    padding: 10px;
+}
+.bakery button{
+    background: #353330;
+    color: #F8F8F8;
+    border-radius:100px;
+}
